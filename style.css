@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+}
+
+div{
+  color: white;
+  text-align: center;
+}
