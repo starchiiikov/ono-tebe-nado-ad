@@ -1,1 +1,1 @@
-https://github.com/starchiiikov/first-project.git
+https://github.com/starchiiikov/ono-tebe-nado-ad
